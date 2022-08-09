@@ -60,7 +60,6 @@
     "editor.defaultFormatter": "Prisma.prisma"
   },
   "search.exclude": {
-    "**/*.env": true,
     "node_modules": true,
     ".eslintignore": true,
     ".eslintrc": true,
